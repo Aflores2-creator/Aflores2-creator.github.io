@@ -1,1 +1,13 @@
-
+body
+  {Background-color: teal;
+   color: #dddddd;
+   font-family: Arial, helvetica, sans-serif;
+    margin: 10% 20%;
+}
+.exp-header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 2px solid #dddddd;
+  border-bottom:2px solid #dddddd;
+  background-color: gray;
+}
